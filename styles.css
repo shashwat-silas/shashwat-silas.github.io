@@ -1,0 +1,124 @@
+
+body {
+    font-family: 'Lato', sans-serif;
+    /*width: 1000px;*/
+    /*margin: 0px auto;*/
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.4;
+    padding-bottom: 80px;
+
+}
+
+h2 {
+    letter-spacing: 0.05em;
+}
+
+
+
+.container-fluid {
+    max-width: 1250px;
+}
+
+body h1 {
+    text-align: center;
+    padding: 10px;
+    /*font-weight:250;*/
+}
+
+.head {
+    margin-bottom: 40px;
+    max-width: 600px;
+}
+
+h2 {
+    font-size: 16px;
+    text-transform: uppercase;
+    /*color: #303030;*/
+    font-weight: 600;
+    /*margin-bottom: 30px;*/
+    padding-left: 20px;
+    /*text-decoration: underline;*/
+    border-bottom: 1px solid black;
+    width: 100%;
+    display: block;
+}
+
+
+#overview {
+    line-height: 1.;4a
+    /*text-align: justify;*/
+}
+
+.paper {
+    margin-bottom: 0px;
+    /*font-size: 18px;*/
+    /*font-weight: 300;*/
+    /*line-height: 1.4;*/
+    /*text-align: left;*/
+}
+
+.journal {
+    /*font-weight: 500;*/
+}
+
+#about {
+    text-align: justify;
+}
+
+
+#pubs p {
+    padding: 3px 0px 3px 10px;
+}
+
+#pubs p:nth-child(odd) {
+    /*background-color: #dcdcdc;*/
+    background-color: #ddd;
+    border-radius: 5px;
+}
+
+#education {
+    margin-top: 50px;
+}
+
+
+#teaching {
+    margin-top: 50px;
+}
+
+#teaching p {
+    padding: 3px 0px 3px 5px;
+}
+
+#teaching p:nth-child(odd) {
+    /*background-color: #dcdcdc;*/
+    /*padding: 5px;*/
+    background-color: #ddd;
+    border-radius: 5px;
+}
+
+.underline {
+    border-bottom: 1px dotted #c03;
+    width: 100%;
+    display: block;
+}
+
+#code {
+    margin-top: 50px;
+}
+
+#theses_side {
+    margin-top: 50px;
+}
+
+#picture {
+    /*border: 1px solid black;*/
+    float: left;
+    padding-left: 0px;
+}
+
+.blog_post {
+    padding-left: 20px;
+    margin-bottom: 50px;
+
+}
